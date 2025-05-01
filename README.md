@@ -2,6 +2,8 @@
 
 ## 📌 Course Overview
 
+![HR ERD ](https://github.com/user-attachments/assets/61dd65b3-a5a0-46d9-aa43-8ade076e11e6)
+
 **This course provides a comprehensive introduction to relational databases, covering essential concepts such as Entity-Relationship Diagrams (ERD), SQL, and various SQL commands like DDL, DQL, and DCL.**
 
 ## 📚 Course Topics
