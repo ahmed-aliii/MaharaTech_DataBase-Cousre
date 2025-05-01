@@ -1,10 +1,11 @@
 # MaharaTech Database Course
 
 ## 📌 Course Overview
-
-![HR ERD ](https://github.com/user-attachments/assets/61dd65b3-a5a0-46d9-aa43-8ade076e11e6)
-
 **This course provides a comprehensive introduction to relational databases, covering essential concepts such as Entity-Relationship Diagrams (ERD), SQL, and various SQL commands like DDL, DQL, and DCL.**
+
+
+![Screenshot_1-5-2025_185955_](https://github.com/user-attachments/assets/1f023245-b04a-4ee6-93db-09378e096cf6)
+
 
 ## 📚 Course Topics
 
